@@ -113,12 +113,12 @@ export default function HeroSection() {
                                 <div className="-rotate-30 aspect-3/2 relative mx-auto lg:w-2/3">
                                     <div className="bg-linear-to-b to-background from-background absolute inset-0 via-transparent"></div>
                                     <div className="bg-linear-to-l to-background from-background absolute inset-0 via-transparent"></div>
-                                    <Image
+                                    {/* <Image
                                         src="https://res.cloudinary.com/dg4jhba5c/image/upload/v1741605545/phone-backgroudn_xqgg5g.jpg"
                                         alt="Phone Background"
                                         width="6240"
                                         height="4160"
-                                    />
+                                    /> */}
                                 </div>
                             </AnimatedGroup>
                         </div>

@@ -8,7 +8,7 @@ import { useRef } from "react"
 interface ProgressiveBlurProps {
   children: React.ReactNode
   className?: string
-  direction?: "up" | "down"
+  direction?: "up" | "down" | "left" | "right"
   intensity?: number
   startOffset?: number
   endOffset?: number
